@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">MacysFilesApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_dialog_title">Permission needed</string>
+    <string name="permission_dialog_message">The permission to read the files in your device is needed, grant access so that you can proceed.</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="task_canceled">The task was canceled</string>
+    <string name="files_found">Files Found:</string>
+    <string name="files_found_hint"># Files</string>
+    <string name="avg_size_hint"># MB</string>
+    <string name="avg_size">Average File Size:</string>
+    <string name="freq_ext_hint">Extensions - Frequency</string>
+    <string name="freq_ext">Most Frequent File Extensions:</string>
+    <string name="big_files">Biggest Files:</string>
+    <string name="big_files_hint">File - Size</string>
+
+</resources>
